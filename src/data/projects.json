@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Movie Rating App",
+    "imageSrc": "projects/use-popcorn-project.png",
+    "description": "Movie Rating App, with add to watchlist feature.",
+    "skills": ["React", "API"],
+    "demo": "https://use-popcorn-rho.vercel.app/",
+    "source": "https://github.com/maaz-codes/use-popcorn"
+  },
+  {
+    "title": "Weather Forecast",
+    "imageSrc": "projects/classy-weather-project.png",
+    "description": "Weather forecast just by searching the city name. ",
+    "skills": ["React", "API"],
+    "demo": "https://weather-app-enhanced.vercel.app/",
+    "source": "https://github.com/maaz-codes/weather-app-enhanced"
+  },
+  {
+    "title": "Travel Packer",
+    "imageSrc": "projects/far-away-project.png",
+    "description": "Just like To-do app but better!",
+    "skills": ["React"],
+    "demo": "https://travel-list-rust.vercel.app/",
+    "source": "https://github.com/maaz-codes/travel-list"
+  },
+  {
+    "title": "Eat-n-Split",
+    "imageSrc": "projects/eat-n-split-project.png",
+    "description": "App that lets you split bills between your friends",
+    "skills": ["React"],
+    "demo": "https://eat-n-split-seven.vercel.app/",
+    "source": "https://github.com/maaz-codes/eat-n-split"
+  }
+]

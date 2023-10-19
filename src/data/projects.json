@@ -30,5 +30,13 @@
     "skills": ["React"],
     "demo": "https://eat-n-split-seven.vercel.app/",
     "source": "https://github.com/maaz-codes/eat-n-split"
+  },
+  {
+    "title": "The Quiz Game",
+    "imageSrc": "projects/quiz-game-project.png",
+    "description": "Quiz Game made using useReducer hook.",
+    "skills": ["React", "useReducer"],
+    "demo": "https://the-quiz-game.vercel.app/",
+    "source": "https://github.com/maaz-codes/the-quiz-game"
   }
 ]

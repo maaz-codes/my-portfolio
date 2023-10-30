@@ -8,6 +8,22 @@
     "source": "https://github.com/maaz-codes/use-popcorn"
   },
   {
+    "title": "The Quiz Game",
+    "imageSrc": "projects/quiz-game-project.png",
+    "description": "Quiz Game made using useReducer hook.",
+    "skills": ["React", "useReducer"],
+    "demo": "https://the-quiz-game.vercel.app/",
+    "source": "https://github.com/maaz-codes/the-quiz-game"
+  },
+  {
+    "title": "Random Blogging Site",
+    "imageSrc": "projects/blogging-site-project.png",
+    "description": "Blogging site with random posts.",
+    "skills": ["React","Context API"],
+    "demo": "https://small-blog-site.vercel.app/",
+    "source": "https://github.com/maaz-codes/small-blog-site"
+  },
+  {
     "title": "Weather Forecast",
     "imageSrc": "projects/classy-weather-project.png",
     "description": "Weather forecast just by searching the city name. ",
@@ -30,13 +46,5 @@
     "skills": ["React"],
     "demo": "https://eat-n-split-seven.vercel.app/",
     "source": "https://github.com/maaz-codes/eat-n-split"
-  },
-  {
-    "title": "The Quiz Game",
-    "imageSrc": "projects/quiz-game-project.png",
-    "description": "Quiz Game made using useReducer hook.",
-    "skills": ["React", "useReducer"],
-    "demo": "https://the-quiz-game.vercel.app/",
-    "source": "https://github.com/maaz-codes/the-quiz-game"
   }
 ]
